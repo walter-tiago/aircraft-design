@@ -1,0 +1,14 @@
+Aircraft Category,A [lb],A [kg],C
+Sailplane-unpowered,0.86,0.83,-0.05
+Sailplane-powered,0.91,0.88,-0.05
+Homebuilt-metal/wood,1.19,1.11,-0.09
+Homebuilt-composite,1.15,1.07,-0.09
+General aviation-single engine,2.36,2.05,-0.18
+General aviation-twin engine,1.51,1.4,-0.10
+Agricultural aircraft,0.74,0.72,-0.03
+Twin turboprop,0.96,0.92,-0.05
+Flying boat,1.09,1.05,-0.05
+Jet trainer,1.59,1.47,-0.10
+Jet fighter,2.34,2.11,-0.13
+Military cargo/bomber,0.93,0.88,-0.07
+Jet transport,1.02,0.97,-0.06
