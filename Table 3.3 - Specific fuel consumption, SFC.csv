@@ -1,4 +1,4 @@
-Typical Jet,Cruise [l/hr],Cruise [mg/Ns],Loiter [l/hr],Loiter [mg/Ns]
+Typical Jet SFCs,Cruise [l/hr],Cruise [mg/Ns],Loiter [l/hr],Loiter [mg/Ns]
 Pure turbojet,0.9,25.5,0.8,22.7
 Low-bypass turbofan,0.8,22.7,0.7,19.8
 High-bypass turbofan,0.5,14.1,0.4,11.3
