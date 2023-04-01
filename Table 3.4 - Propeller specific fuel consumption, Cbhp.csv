@@ -1,0 +1,4 @@
+Typical Cbhp,Cruise [lb/hr/bhp],Cruise [mg/Ws],Loiter [lb/hr/bhp],Loiter [mg/Ws]
+Piston-prop (fixed),0.4,0.068,0.5,0.085
+Pinston-prop (variable),0.4,0.068,0.5,0.085
+Turboprop,0.5,0.085,0.6,0.101
