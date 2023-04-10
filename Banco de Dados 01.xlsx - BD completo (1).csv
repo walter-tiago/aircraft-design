@@ -1,4 +1,4 @@
-CÓD,Origem,Ano,Categoria,Aeronave,Ocupante,PesoT,PesoV,PesoF,HP,Sw,Bw,Cmw,Sht,Svt,Sailer,Sprof,Sldirec,Sflap,Lfuse,Vcabine,Estrutura,Vstall,Vcruz,Vmáx,Alcance,Climb,Ddecol,Daterra,Teto,Afilamento,Perfil,Motor,Diedro,ttrem,Incidencia,Perfil (ponta),Tipoprop,Sweep
+CÓD,Origem,Ano,Categoria,Aeronave,Ocupante,W0,We,Wf,HP,Sw,Bw,Cmw,Sht,Svt,Sailer,Sprof,Sldirec,Sflap,Lfuse,Vcabine,Estrutura,Vstall,Vcruz,Vmáx,Alcance,Climb,Ddecol,Daterra,Teto,Afilamento,Perfil,Motor,Diedro,ttrem,Incidencia,Perfil (ponta),Tipoprop,Sweep
 1,Inglaterra,1984,TRB,Slingsby T67M,2,2000,1430,250.8,260,136,34.75,3.87,28.73,16.41,1.24,10.65,8.82,18.94,24,1,1,57,134,146,638,900,1095,1315,15000,0.51,NACA 23015,Lycoming AEIO-540-D4A5,3,fixo,3,NACA 23013,p,1
 2,Czech,1976,TRA,AERO L-39 ZA,2,10218,7859,2156,363,202.4,31,7,49.5,67.6,1.3,16.14,10.22,29.05,39.9,1,1,87,370,410,730,1344,1171,1837,12000,0.5,NACA 64A012,ZMKB Progress AI-25 TL turbofan,2,retratil,2,NACA 64A012,j,2
 3,Czech,1988,TRP,Zlin 242,2,2138,1609,330,210,141.5,30,4.92,22.92,27.89,1.41,14.63,8.72,15.17,24,1,1,57,115,141,326,1000,764,935,15000,1,NACA 63-416.5,LOM M 337AK seis cilindros em linha,6,fixo,2,NACA 63-416.5,p,1
@@ -33,8 +33,3 @@ CÓD,Origem,Ano,Categoria,Aeronave,Ocupante,PesoT,PesoV,PesoF,HP,Sw,Bw,Cmw,Sht,S
 36,Coreia,1998,TRBA,KAI KT-1,2,7065,4210,1600,950,172.3,34.8,4.96,37.5,24,11.95,12.6,9.3,23.7,33.6,1,1,82,322,402,7620,3500,1620,2385,38000,0.5,Na,Pratt & Whitney PT6A-62 turboprop,3,retratil,2,Na,tp,4
 37,Iran,2005,TRBA,IAMI HT-80,2,5940,3680,1100,700,175,34,5.3,31,21.5,12.42,13.43,9.7,14,32,1,1,52,239,276,1050,2840,1305,1805,25000,0.5,Na,Pratt & Whitney PT6-25C turboprop,3,retratil,2,Na,tp,2
 38,Brasil,2008,TRBA,GA,2,6157,4095,1644,750,192.06,39.24,1.6,39.91,34,16,14,11.9,23.1,29,1,1,70,198,231,0,1720,2275,1767,25000,0.5,USA35B,Pratt & Whitney PT6-25C turboprop,3,retratil,2,Na,tp,1
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,TRB,Treinador Básico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,TRP,Treinador Primário,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,TRA,Treinador Avancado,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,TRBA,Treinador basico Avancado,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
